@@ -120,7 +120,7 @@ A smart, conversational **AI-Powered Travel Planner Agent** that addresses these
 
 ---
 
-
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/Adhavanus/)
 
 ---
 
