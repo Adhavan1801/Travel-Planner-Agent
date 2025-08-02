@@ -99,16 +99,16 @@ A smart, conversational **AI-Powered Travel Planner Agent** that addresses these
 ## 🖼️ Screenshots
 
 ### 🔹 Agent Setup & Configuration
-![Setup](https://i.imgur.com/5Jz8wV1.png)
+![API](Images/API Architecture.png)
 
 ### 🔹 Deployment & Preview
-![Deployment](https://i.imgur.com/Qk9rVd2.png)
+![Deployment](Images/Deployment and Preview.png)
 
 ### 🔹 Tools Used & Testing
-![Tools Used](https://i.imgur.com/1BwF3xH.png)
+![Tools Used](Images/Tools Used.png)
 
-### 🔹 Example Interaction
-![Example](https://i.imgur.com/2sJ1xG3.png)
+### 🔹 Setup & Configuration
+![Setup & configuration](Images/Setup & configuration.png)
 
 ---
 
