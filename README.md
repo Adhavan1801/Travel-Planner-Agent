@@ -116,13 +116,11 @@ A smart, conversational **AI-Powered Travel Planner Agent** that addresses these
 
 * **[IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)**
 * **[IBM Cloud](https://cloud.ibm.com)**
-* **[GitHub Repository](https://github.com/your-repo-link)**
+
 
 ---
 
-## ⚖️ License
 
-This project is licensed under the MIT License.
 
 ---
 
